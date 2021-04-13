@@ -1,4 +1,9 @@
-# [HIT kariéra 2021: GraphQL end to end](https://github.com/cngroupdk/HIT-kariera-GraphQL/)
+# [HIT kariéra 2021: GraphQL end to end](https://cngroupdk.github.io/HIT-kariera-GraphQL/)
+
+- [Docs](https://cngroupdk.github.io/HIT-kariera-GraphQL/)
+- branches
+  - [main](https://github.com/cngroupdk/HIT-kariera-GraphQL/tree/main) - initial state
+  - [final](https://github.com/cngroupdk/HIT-kariera-GraphQL/tree/final) - all GraphQL features implemented
 
 ## Requirements
 
