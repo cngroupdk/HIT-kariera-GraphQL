@@ -5,6 +5,17 @@
   - [main](https://github.com/cngroupdk/HIT-kariera-GraphQL/tree/main) - initial state
   - [final](https://github.com/cngroupdk/HIT-kariera-GraphQL/tree/final) - all GraphQL features implemented
 
+---
+
+Kurz pro studenty UHK: [Agilní vývoj webových aplikací](https://www.uhk.cz/cs/fakulta-informatiky-a-managementu/fim/katedry-a-pracoviste/idv-institut-dalsiho-vzdelavani/kurzy/ostatni-kurzy)
+
+O **CN Group**:
+
+- [https://cngroup.dk/](https://cngroup.dk/)
+- [https://cnjobs.dk/](https://cnjobs.dk/)
+
+---
+
 ## Requirements
 
 - [Node.js](https://nodejs.org/) according to [`.nvmrc` file](./.nvmrc).
